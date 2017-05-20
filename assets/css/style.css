@@ -1,0 +1,28 @@
+body{
+	background-image: url(assets/images/symphony.png);
+}
+
+h1 {
+	background-color: #ffffff;
+	border-color: #cccccc;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2 {color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h3 {color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.about{
+	background: pink;
+	width: 650px;
+}
+
+.connect{
+	background-color: magenta;
+	width: 270px;
+	float: left;
+}
